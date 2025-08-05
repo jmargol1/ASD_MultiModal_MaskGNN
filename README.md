@@ -18,7 +18,5 @@ To run the Fusion Model with tuned architecture open Jupyter Notebook `FusionMas
 
 ## sMRI + fMRI +DTI models (ABIDE II data)
 
-Files related to this portion are in ASD2 Folder
 
-To run all models open Python file `GNNBuilder.py` and run --> approximately 5 hours to run in full
 
