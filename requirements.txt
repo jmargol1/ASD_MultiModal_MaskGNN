@@ -1,0 +1,36 @@
+# Core
+python>=3.9
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+torch>=2.0
+torchvision
+torchaudio
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+
+# Jupyter and notebook tools
+jupyter
+ipykernel
+tqdm
+
+# Neuroimaging tools
+nibabel
+nilearn
+
+# Plotting and visualization
+networkx
+brainspace
+matplotlib
+seaborn
+
+# Utility
+scipy
+joblib
+pickle-mixin
