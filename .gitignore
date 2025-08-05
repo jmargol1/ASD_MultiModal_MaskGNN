@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+**/.venv*/
+**/venv/
+
+# Mac system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+ASD2/.venv312/
