@@ -16,7 +16,6 @@ To run the Fusion Model with same structure as fMRI and sMRI open Jupyter Notebo
 
 To run the Fusion Model with tuned architecture open Jupyter Notebook `FusionMaskGNNTuned.ipynb` and run all --> Approximately 2 hours to run in full
 
-## sMRI + fMRI +DTI models (ABIDE II data)
 
 
 
